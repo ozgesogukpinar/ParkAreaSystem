@@ -1,13 +1,13 @@
-package com.devsoftbd.palash.studentsinfo;
+package com.park.system.parkinfo;
 
-import org.junit.Test;
+import org.junit.Test; 
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class StudentsInfoApplicationTests {
+public class ParkInfoApplicationTests {
 
 	@Test
 	public void contextLoads() {
