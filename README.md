@@ -8,7 +8,7 @@ Example addParkArea :
 {
     "name" : "parkarea1",
     "capacity" : 5,
-    "cityAttribute" : "gebze",
+    "cityAttribute" : "Istanbul",
     "priceList" : {"0-2": 10, "2-4": 12, "4-8": 15}
 }
 
